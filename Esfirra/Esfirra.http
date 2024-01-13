@@ -1,0 +1,6 @@
+@Esfirra_HostAddress = http://localhost:5298
+
+GET {{Esfirra_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
